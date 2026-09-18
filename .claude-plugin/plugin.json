@@ -1,0 +1,13 @@
+{
+  "name": "devnorm",
+  "version": "0.4.1",
+  "description": "開發規範：Conventional Commits 繁中版、docs/ 文件分類法、GitHub Flow 分支流程。專案可用 .claude/conventions.json 覆寫 scope 與語言。",
+  "author": {
+    "name": "Allen",
+    "url": "https://github.com/allen54388"
+  },
+  "homepage": "https://github.com/allen54388/devnorm",
+  "repository": "https://github.com/allen54388/devnorm",
+  "license": "MIT",
+  "keywords": ["conventional-commits", "docs", "git", "workflow", "zh-TW", "trunk-based"]
+}

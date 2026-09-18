@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "devnorm",
+  "description": "devnorm 開發規範 plugin 的 marketplace",
+  "owner": {
+    "name": "Allen",
+    "url": "https://github.com/allen54388"
+  },
+  "plugins": [
+    {
+      "name": "devnorm",
+      "source": "./",
+      "description": "開發規範：Conventional Commits 繁中版、docs/ 文件分類法、GitHub Flow 分支流程",
+      "category": "workflow",
+      "keywords": ["conventional-commits", "docs", "git", "workflow", "zh-TW"]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "language": "zh-TW",
+  "scopes": [
+    "auth",
+    "ui",
+    "layout",
+    "mail",
+    "notification",
+    "order",
+    "product",
+    "customer",
+    "ticket",
+    "report",
+    "knowledge",
+    "manuals",
+    "sync",
+    "schedule",
+    "i18n",
+    "security",
+    "profile",
+    "permission",
+    "models",
+    "seed",
+    "deploy",
+    "env",
+    "deps",
+    "test",
+    "docs",
+    "claude"
+  ]
+}
