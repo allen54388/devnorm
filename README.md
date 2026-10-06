@@ -2,7 +2,7 @@
 
 Claude Code plugin：三條開發規範，裝了之後 AI 在 commit、建分支、寫文件時自動遵守。不用 Claude Code 的人也可以直接讀本文當團隊規範。
 
-規範來自一個 Laravel 專案半年、347 筆 commit 的實際運作經驗，協助設計。
+規範來自一個 Laravel 專案半年、450 筆 commit 的實際運作經驗整理而成。
 
 ## 安裝
 
